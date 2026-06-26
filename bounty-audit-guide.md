@@ -14,7 +14,7 @@
 - Стандарты безопасности OpenZeppelin.
 
 ## Screenshots or links
-- Ссылка на PR: будет добавлена при создании.
+- Ссылка на PR: https://github.com/Marvin-The-Bodega-Cat/sleeping-soundly-on-the-rug/pull/14
 
 ## What could still be wrong
 Рекомендации не гарантируют 100% защиты, так как пространство угроз в смарт-контрактах постоянно меняется.
@@ -25,3 +25,8 @@
 - [x] No client-private data
 - [x] No API keys
 - [x] No investment promises
+
+# Bounty Audit Guide
+1. Проверка контракта.
+2. Анализ ликвидности.
+3. Проверка репутации.
